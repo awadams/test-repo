@@ -1,15 +1,15 @@
 //
-//  TestTests.swift
-//  TestTests
+//  FoodForThoughtTests.swift
+//  FoodForThoughtTests
 //
-//  Created by Andy Adams on 6/27/18.
-//  Copyright © 2018 Andy Adams. All rights reserved.
+//  Created by Jordan Ehrenholz on 6/27/18.
+//  Copyright © 2018 Jordan Ehrenholz. All rights reserved.
 //
 
 import XCTest
-@testable import Test
+@testable import FoodForThought
 
-class TestTests: XCTestCase {
+class FoodForThoughtTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
